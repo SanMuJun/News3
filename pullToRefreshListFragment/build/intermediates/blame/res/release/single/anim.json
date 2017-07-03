@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_top.xml",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\News3\\PullToRefresh_library\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_bottom.xml",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\News3\\PullToRefresh_library\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_top.xml",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\News3\\PullToRefresh_library\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_bottom.xml",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\News3\\PullToRefresh_library\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    }
+]

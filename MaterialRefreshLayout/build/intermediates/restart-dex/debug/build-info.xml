@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="18"
+    density="xhdpi"
+    format="7"
+    timestamp="6607078191006"
+    token="-2007605944303586404" >
+
+    <task
+        name="javac"
+        duration="594" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="788" />
+    <task
+        name="verifier"
+        duration="249" />
+
+    <build timestamp="6607078191006" />
+
+</instant-run>

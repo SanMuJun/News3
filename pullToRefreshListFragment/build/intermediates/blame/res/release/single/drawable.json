@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\News3\\PullToRefresh_library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\News3\\PullToRefresh_library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    }
+]
