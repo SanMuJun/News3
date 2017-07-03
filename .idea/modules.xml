@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Alipay_demo/Alipay_demo.iml" filepath="$PROJECT_DIR$/Alipay_demo/Alipay_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Image-Loader-sample/Image-Loader-sample.iml" filepath="$PROJECT_DIR$/Image-Loader-sample/Image-Loader-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageLoader_library/ImageLoader_library.iml" filepath="$PROJECT_DIR$/ImageLoader_library/ImageLoader_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPushExample/JPushExample.iml" filepath="$PROJECT_DIR$/JPushExample/JPushExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialRefreshLayout/MaterialRefreshLayout.iml" filepath="$PROJECT_DIR$/MaterialRefreshLayout/MaterialRefreshLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialRefreshLayout_library/MaterialRefreshLayout_library.iml" filepath="$PROJECT_DIR$/MaterialRefreshLayout_library/MaterialRefreshLayout_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/News3.iml" filepath="$PROJECT_DIR$/News3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoView-library/PhotoView-library.iml" filepath="$PROJECT_DIR$/PhotoView-library/PhotoView-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoView-sample/PhotoView-sample.iml" filepath="$PROJECT_DIR$/PhotoView-sample/PhotoView-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefresh_library/PullToRefresh_library.iml" filepath="$PROJECT_DIR$/PullToRefresh_library/PullToRefresh_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefresh_sample/PullToRefresh_sample.iml" filepath="$PROJECT_DIR$/PullToRefresh_sample/PullToRefresh_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Robot_app/Robot_app.iml" filepath="$PROJECT_DIR$/Robot_app/Robot_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingMenu_library/SlidingMenu_library.iml" filepath="$PROJECT_DIR$/SlidingMenu_library/SlidingMenu_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerIndicator_library/ViewPagerIndicator_library.iml" filepath="$PROJECT_DIR$/ViewPagerIndicator_library/ViewPagerIndicator_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerIndicator_sample/ViewPagerIndicator_sample.iml" filepath="$PROJECT_DIR$/ViewPagerIndicator_sample/ViewPagerIndicator_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numberaddsubview/numberaddsubview.iml" filepath="$PROJECT_DIR$/numberaddsubview/numberaddsubview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefreshListFragment/pullToRefreshListFragment.iml" filepath="$PROJECT_DIR$/pullToRefreshListFragment/pullToRefreshListFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefreshViewPager/pullToRefreshViewPager.iml" filepath="$PROJECT_DIR$/pullToRefreshViewPager/pullToRefreshViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xUtils3_sample/xUtils3_sample.iml" filepath="$PROJECT_DIR$/xUtils3_sample/xUtils3_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils/xutils.iml" filepath="$PROJECT_DIR$/xutils/xutils.iml" />
+    </modules>
+  </component>
+</project>

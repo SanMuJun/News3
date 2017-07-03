@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\software\4_Android\AndroidStudio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Alipay_demo" />
+            <option value="$PROJECT_DIR$/Image-Loader-sample" />
+            <option value="$PROJECT_DIR$/ImageLoader_library" />
+            <option value="$PROJECT_DIR$/JPushExample" />
+            <option value="$PROJECT_DIR$/MaterialRefreshLayout" />
+            <option value="$PROJECT_DIR$/MaterialRefreshLayout_library" />
+            <option value="$PROJECT_DIR$/PhotoView-library" />
+            <option value="$PROJECT_DIR$/PhotoView-sample" />
+            <option value="$PROJECT_DIR$/PullToRefresh_library" />
+            <option value="$PROJECT_DIR$/PullToRefresh_sample" />
+            <option value="$PROJECT_DIR$/Robot_app" />
+            <option value="$PROJECT_DIR$/SlidingMenu_library" />
+            <option value="$PROJECT_DIR$/ViewPagerIndicator_library" />
+            <option value="$PROJECT_DIR$/ViewPagerIndicator_sample" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/numberaddsubview" />
+            <option value="$PROJECT_DIR$/pullToRefreshListFragment" />
+            <option value="$PROJECT_DIR$/pullToRefreshViewPager" />
+            <option value="$PROJECT_DIR$/xUtils3_sample" />
+            <option value="$PROJECT_DIR$/xutils" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Alipay_demo" />
+            <option value="$PROJECT_DIR$/Image-Loader-sample" />
+            <option value="$PROJECT_DIR$/ImageLoader_library" />
+            <option value="$PROJECT_DIR$/JPushExample" />
+            <option value="$PROJECT_DIR$/MaterialRefreshLayout" />
+            <option value="$PROJECT_DIR$/MaterialRefreshLayout_library" />
+            <option value="$PROJECT_DIR$/PhotoView-library" />
+            <option value="$PROJECT_DIR$/PhotoView-sample" />
+            <option value="$PROJECT_DIR$/PullToRefresh_library" />
+            <option value="$PROJECT_DIR$/PullToRefresh_sample" />
+            <option value="$PROJECT_DIR$/Robot_app" />
+            <option value="$PROJECT_DIR$/SlidingMenu_library" />
+            <option value="$PROJECT_DIR$/ViewPagerIndicator_library" />
+            <option value="$PROJECT_DIR$/ViewPagerIndicator_sample" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/numberaddsubview" />
+            <option value="$PROJECT_DIR$/pullToRefreshListFragment" />
+            <option value="$PROJECT_DIR$/pullToRefreshViewPager" />
+            <option value="$PROJECT_DIR$/xUtils3_sample" />
+            <option value="$PROJECT_DIR$/xutils" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
