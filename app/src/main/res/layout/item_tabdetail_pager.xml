@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp">
+
+
+
+
+<ImageView
+    android:id="@+id/iv_icon"
+    android:src="@drawable/news_pic_default"
+    android:scaleType="fitXY"
+    android:layout_margin="7dp"
+    android:layout_width="120dp"
+    android:layout_height="120dp" />
+    <LinearLayout
+        android:layout_centerVertical="true"
+        android:orientation="vertical"
+        android:layout_toRightOf="@+id/iv_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:textColor="@android:color/holo_blue_bright"
+            android:id="@+id/tv_title"
+            android:textSize="20sp"
+            android:text="何处不逢春"
+            android:lines="2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/tv_time"
+            android:layout_marginTop="20dp"
+            android:textSize="20sp"
+            android:text="2016.12.8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/icon_news_comment_num"
+        android:scaleType="fitXY"
+        android:layout_margin="7dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <View
+        android:background="@android:color/black"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+
+</RelativeLayout>
