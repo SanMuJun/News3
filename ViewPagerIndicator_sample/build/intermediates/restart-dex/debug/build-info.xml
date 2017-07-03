@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="18"
+    density="xhdpi"
+    format="7"
+    timestamp="43151997903802"
+    token="-4581858200242985047" >
+
+    <task
+        name="javac"
+        duration="1802" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1784" />
+    <task
+        name="verifier"
+        duration="191" />
+
+    <artifact
+        location="G:\DocumentSave\WorkSpace\AndroidStudioProjects\News3\ViewPagerIndicator_sample\build\outputs\apk\ViewPagerIndicator_sample-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="43151997903802" >
+        <artifact
+            location="G:\DocumentSave\WorkSpace\AndroidStudioProjects\News3\ViewPagerIndicator_sample\build\outputs\apk\ViewPagerIndicator_sample-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
