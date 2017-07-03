@@ -1,0 +1,8 @@
+include ':app', ':SlidingMenu_library', ':xutils', ':xUtils3_sample', ':JPushExample', ':Image-Loader-sample', ':ImageLoader_library', ':PhotoView-sample', ':PhotoView-library', ':MaterialRefreshLayout', ':MaterialRefreshLayout_library', ':numberaddsubview', 'Robot_app'
+include ':ViewPagerIndicator_library'
+include ':ViewPagerIndicator_sample'
+include ':PullToRefresh_library'
+include ':pullToRefreshListFragment'
+include ':pullToRefreshViewPager'
+include ':PullToRefresh_sample'
+include ':Alipay_demo'
