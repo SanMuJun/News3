@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\PullToRefresh_sample\\build\\intermediates\\exploded-aar\\News3\\PullToRefresh_library\\unspecified\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\PullToRefresh_sample\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\PullToRefresh_sample\\build\\intermediates\\exploded-aar\\News3\\PullToRefresh_library\\unspecified\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\PullToRefresh_sample\\build\\intermediates\\exploded-aar\\News3\\PullToRefresh_library\\unspecified\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    }
+]

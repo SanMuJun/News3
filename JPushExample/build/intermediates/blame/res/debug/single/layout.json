@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout.xml",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\JPushExample\\res\\layout\\customer_notitfication_layout.xml"
+    },
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\set_push_time.xml",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\JPushExample\\res\\layout\\set_push_time.xml"
+    },
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\JPushExample\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\JPushExample\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\push_set_dialog.xml",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\JPushExample\\res\\layout\\push_set_dialog.xml"
+    },
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\JPushExample\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\JPushExample\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout_one.xml",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\JPushExample\\res\\layout\\customer_notitfication_layout_one.xml"
+    }
+]

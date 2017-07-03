@@ -1,0 +1,2 @@
+CHANGED,G:\DocumentSave\WorkSpace\AndroidStudioProjects\News3\Alipay_demo\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,G:\DocumentSave\WorkSpace\AndroidStudioProjects\News3\Alipay_demo\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\alipay\sdk\pay\demo\PayDemoActivity$override.class

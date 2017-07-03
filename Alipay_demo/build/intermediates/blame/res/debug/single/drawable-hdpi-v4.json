@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\Alipay_demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msp_demo_title.png",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\Alipay_demo\\src\\main\\res\\drawable-hdpi\\msp_demo_title.png"
+    },
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\Alipay_demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msp_demo_title_bg.png",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\Alipay_demo\\src\\main\\res\\drawable-hdpi\\msp_demo_title_bg.png"
+    },
+    {
+        "merged": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\Alipay_demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msp_icon.png",
+        "source": "G:\\DocumentSave\\WorkSpace\\AndroidStudioProjects\\News3\\Alipay_demo\\src\\main\\res\\drawable-hdpi\\msp_icon.png"
+    }
+]
